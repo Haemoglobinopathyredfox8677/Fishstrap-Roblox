@@ -1,0 +1,19 @@
+{
+  "Balanced": {
+    "FFlagTaskSchedulerLimitTargetFps": "240",
+    "DFIntRenderShadowIntensity": "1"
+  },
+  "Performance": {
+    "DFIntTextureQualityOverride": "1",
+    "FFlagDebugDisableVignette": "1"
+  },
+  "Ultra Performance": {
+    "DFIntDebugFRMQualityLevelOverride": "1",
+    "FFlagRenderNoLowFrmBloom": "1"
+  },
+  "Quality": {
+    "DFIntRenderShadowmapBias": "0",
+    "FFlagFastGPULightCulling3": "1"
+  },
+  "_rev": "rev-b8f3c1-20260825"
+}

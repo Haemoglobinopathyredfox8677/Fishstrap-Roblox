@@ -1,0 +1,32 @@
+# rev-b8f3c1-20260825
+Fishstrap - Guide
+=================
+
+WHAT IT IS
+fishstrap is a roblox bootstrapper: fps unlocker, fast flags editor,
+multi instance, custom fonts and shader packs in one 2MB app.
+not an executor - no scripts, no gameplay modification.
+
+QUICK START
+1. extract Fishstrap.zip anywhere
+2. run Fishstrap.exe as Administrator
+3. pick a preset: Balanced / Performance / Ultra Performance / Quality
+4. set target fps: 144, 240, 360 or unlimited
+5. launch Roblox - the unlock applies automatically
+
+MULTI INSTANCE
+enable multi_instance=1 in bundle/settings.cfg to run several
+Roblox clients at once. each client gets its own fps unlock.
+
+FONTS AND SHADERS
+- custom_font=path to any .ttf for in-game text
+- shader_pack=bloxshade-compatible packs, 12 built-in presets
+
+AFTER A ROBLOX UPDATE
+the auto-updater refreshes signatures hourly. if the unlock stops
+working after a patch, restart fishstrap and it re-scans.
+
+fishstrap vs bloxstrap: fishstrap adds multi instance, shader
+presets and custom fonts on top of the same fast flags system.
+fishstrap vs voidstrap: voidstrap is minimal; fishstrap ships more
+built-in features.
