@@ -3,7 +3,9 @@
 **Fishstrap Roblox FPS Unlocker** is a **fishstrap roblox** bootstrapper: FPS unlock, **fast flags** / **fflags**, **bloxstrap fast flags** presets, **multi instance**, shaders and custom fonts. A **bloxstrap** alternative next to **voidstrap** — **fishstrap github** is not an executor.
 
 <img width="119" height="119" alt="images1" src="https://github.com/user-attachments/assets/386450de-ffaa-4580-ac2e-914b0b2c40d0" />
-.
+
+/
+
 <img width="583" height="343" alt="images2" src="https://github.com/user-attachments/assets/68de575c-41c3-4ca9-8a83-acf4092806eb" />
 <img width="1489" height="858" alt="images3" src="https://github.com/user-attachments/assets/73f93f68-4be8-4bd1-ae1e-f49edeab49df" />
 
